@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading{
+    width: 100%;
+    height: 50px;
+    font-size: 30px;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    color: white;
+    padding-top: 2px;
+    font-family: Impact;
+}
+.but{
+    border-radius: 8px;
+    width: 40%;
+    font-size: 25px;
+    font-family: Georgia;
+    background-color: rgb(8, 51, 2);
+    color: white;
+}
